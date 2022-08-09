@@ -1,0 +1,20 @@
+{
+	"font_size": 20,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"caret_extra_top": 0.8,
+ 	"caret_extra_bottom": 0.8,
+ 	"caret_extra_width": 1,
+ 	"font_options": ["no_italic"],
+ 	"auto_complete_use_history": true,
+ 	"auto_complete_use_index": false,
+ 	"draw_minimap_border": false,
+ 	"font_face": "Consolas-with-Yahei",
+	"update_check": false,
+	"color_scheme": "Mariana.sublime-color-scheme",
+	"auto_complete_with_fields": false,
+	"close_windows_when_empty": false,
+	"save_on_focus_lose":true,
+}

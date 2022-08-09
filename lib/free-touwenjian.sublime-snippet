@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+#include <cstdio>
+#include <iostream>
+#include <cstring>
+#include <string.h>
+#include <cmath>
+#include <algorithm>
+#include <cstdlib>
+]]></content>
+
+<tabTrigger>touwenjian</tabTrigger>
+</snippet>

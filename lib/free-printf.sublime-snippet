@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+printf("%d\n$1",$2);
+]]></content>
+<tabTrigger>printf()</tabTrigger>
+</snippet>

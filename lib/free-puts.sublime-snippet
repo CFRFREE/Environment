@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+puts("$1");
+]]></content>
+<tabTrigger>pt</tabTrigger>
+</snippet>
